@@ -7,13 +7,13 @@ You can contribute to this project by submitting useful links in this public
 
 Every Monday morning **9 am PST** we will review and approve all your pull requests aiming to send the email to your inbox by **10 am PST**.
 
-We'll be mentioning on twitter with <a href="https://twitter.com/plainflow">@plainflow</a> all the featured authors before sending the email out.
+We will mention all the featured authors on twitter with the <a href="https://twitter.com/plainflow">@plainflow</a> account before sending the email out.
 
 ---
 
 ### Content Guidelines 📚
 
-In order to keep the bar as high as possible we will add your posts only if they meet these 4 principles:
+In order to keep the bar as high as possible, we will add your posts only if they meet these 4 principles:
 
 ###### Content 📑
 
