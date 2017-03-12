@@ -5,7 +5,7 @@ The PlainFlow Digested Week is a crowdsource email newsletter that goes to all t
 You can contribute to this project by submitting useful links in this public
 <a href="https://github.com/plainflow/plainflow-digested-week"> Github repo</a>.
 
-Every Monday morning **9am PST** we will review and approve all your pull requests aiming to send the email to your inbox by **10am PST**.
+Every Monday morning **9 am PST** we will review and approve all your pull requests aiming to send the email to your inbox by **10 am PST**.
 
 We'll be mentioning on twitter with <a href="https://twitter.com/plainflow">@plainflow</a> all the featured authors before sending the email out.
 
@@ -25,7 +25,7 @@ We're asking you to submit only what **you** think is so genuinely interesting t
 Always avoid catchy titles or more-searched-terms kind of articles.
 
 ###### Bias 📢
-We're starting this open project because we love great content and we because want to make that available to you, not because we want you to read specific blogs or authors.
+We're starting this open project because we love great content and because we want to make that available to you, not because we want you to read specific blogs or authors.
 
 It's important for us that you submit articles in a fair way without obvious bias or added commentary.
 
@@ -41,7 +41,7 @@ We're not Google and we're not as strict as the PageRank algorithm, but fresh co
 
 ### Email Structure 📚
 
-We divided the Email template in 5 different main areas:
+We divided the Email template into 5 different main areas:
 
 1. <a name="head">Headline</a>
 2. <a name="email">On Email Marketing</a>
@@ -51,8 +51,8 @@ We divided the Email template in 5 different main areas:
 
 ##### [Headline](#head)
 
-In the headline we'll tell you a brief summary of the content below. How people contributed to the Email and how many PRs we've got.
-We'll also tell you what's email number and a quick link to get access to other newsletter we've published.
+In the headline, we'll tell you a brief summary of the content below. How people contributed to the Email and how many PRs we've got.
+We'll also tell you what's email number and a quick link to get access to another newsletter we've published.
 
 
 ##### [On Email Marketing](email) 📧
@@ -99,11 +99,11 @@ What can you submit here?
 2. how different SaaS marketing tools work together
 3. APIs and marketing integrations
 
-##### [What surprised us this week..](#wow)
+##### [What surprised us this week](#wow)
 
-If you've got something interesting that you want to show here but it's not suitable with all the categories above, this is your go-to section.
+If you've got something interesting that you want to show here but it's not suitable for all the categories above, this is your go-to section.
 
-As long as you respect the Content & Stile Guidelines written above, you can post here (almost) your want.
+As long as you respect the Content & Style Guidelines written above, you can post here (almost) your want.
 
 
 ### Our workflow 📚
@@ -111,7 +111,7 @@ As long as you respect the Content & Stile Guidelines written above, you can pos
 We will be reviewing and approving the pull requests each day from Tuesday till Monday morning.
 <img src="http://i.imgur.com/xBdmiEB.png">
 
-Every Monday morning **8:30am PST** we will make sure we had reviewed and approved all your pull requests. We'll send the email to your inbox by **10am PST**.
+Every Monday morning **8:30 am PST** we will make sure we had reviewed and approved all your pull requests. We'll send the email to your inbox by **10 am PST**.
 
 This is how a traditional Monday morning will look like for us.
 
@@ -120,7 +120,7 @@ This is how a traditional Monday morning will look like for us.
 
 ### 'How do I submit a new link?' 📚
 
-You can contribute to the PlainFLow Digested Week by submitting pull request.
+You can contribute to the PlainFLow Digested Week by submitting a pull request.
 
 > what is a pull request? read on <a href="https://www.atlassian.com/git/tutorials/making-a-pull-request">here</a>
 
@@ -138,13 +138,13 @@ Here's a 5-step tutorial to submit a new article:
 
 ### Style Guidelines when submitting a new Pull Request 📚
 
-This is the structure we suggest you to submit links.
+This is the structure we suggest you submit links.
 
 <img src="http://i.imgur.com/zS6ftyI.png">
 <br>
 - rank your resource at the beginning based on the other links position
 - mention the author (link to his twitter profile) and give credits
-- brief of the description of the the resource
+- brief of the description of the resource
 - resource link
 <br>
 
