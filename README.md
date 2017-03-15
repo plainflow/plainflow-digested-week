@@ -9,6 +9,8 @@ Every Monday morning **9 am PST** we will review and approve all your pull reque
 
 We will mention all the featured authors on twitter with the <a href="https://twitter.com/plainflow">@plainflow</a> account before sending the email out.
 
+<a href="https://www.plainflow.com/blog/plainflow-digested-week/">Here's a detailed article in our Blog.</a>
+
 ---
 
 ### Content Guidelines 📚
