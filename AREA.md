@@ -15,7 +15,7 @@ We will mention all the featured authors on twitter with the <a href="https://tw
 ---
 
 This describes the structure of the PlainFlow Digested Week.
-If you want us to cover a new topic, open a pull request and with a title and a short description.
+If you want us to cover a new topic, open a pull request addig a title and a short description.
 
 ### Email Structure 📚
 
